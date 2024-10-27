@@ -3,7 +3,7 @@ Welcome to the Iris Flower Classification project! This repository contains code
 📌 Project Overview
 The Iris Flower Classification is a classic supervised learning project that aims to build a model to classify iris flowers into species. We use the popular Iris Dataset, which includes 150 samples of iris flowers, each with four features:
 
-Sepal Length
-Sepal Width
-Petal Length
-Petal Width
+Sepal Length<\br>
+Sepal Width<\br>
+Petal Length<\br>
+Petal Width<\br>

@@ -1,2 +1,9 @@
-# ML_projects
- This collection features a series of hands-on projects exploring different facets of machine learning, from data preprocessing to model development and evaluation. Each project is designed to solve real-world problems and demonstrate core ML techniques. Follow along to see continuous improvements and new additions as I expand my ML skills.
+Welcome to the Iris Flower Classification project! This repository contains code and resources for a machine learning model that classifies iris flowers into three species: Setosa, Versicolor, and Virginica, based on sepal and petal dimensions.
+
+📌 Project Overview
+The Iris Flower Classification is a classic supervised learning project that aims to build a model to classify iris flowers into species. We use the popular Iris Dataset, which includes 150 samples of iris flowers, each with four features:
+
+Sepal Length
+Sepal Width
+Petal Length
+Petal Width
